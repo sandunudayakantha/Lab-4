@@ -4,7 +4,7 @@ const condition = true;
 
 const myPromise = new Promise((resolve, reject) => {
  if (condition) {
- resolve('Success!1111111111');
+ resolve('Success!222222222');
  } else {
  reject('Failure!');
  }
